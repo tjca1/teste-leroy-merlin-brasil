@@ -1,0 +1,4 @@
+br\com\leroymerlin\productservice\ProductImportSheetValidatorTests.class
+br\com\leroymerlin\productservice\ProductServiceTests.class
+br\com\leroymerlin\productservice\ProductSheetUtilsTests.class
+br\com\leroymerlin\productservice\ProductImportSheetLogServiceTests.class
