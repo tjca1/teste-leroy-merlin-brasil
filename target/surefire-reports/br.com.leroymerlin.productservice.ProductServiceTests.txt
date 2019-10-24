@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: br.com.tjca1.leroy.merlin.ProductServiceTests
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.292 s - in br.com.tjca1.leroy.merlin.ProductServiceTests
